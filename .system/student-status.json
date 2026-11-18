@@ -6,7 +6,7 @@
   "student_console": false,
   "semester_start": "2026-11-21",
   "semester_end": "2026-11-28",
-  "generated_at": "2026-11-18T14:01:59+00:00",
+  "generated_at": "2026-11-18T14:19:02+00:00",
   "timezone": "Europe/Berlin",
   "archive_datetime": "2027-01-31",
   "home_markdown": "Welcome to **Deep Learning** at the [Hertie School Data Science Lab]().\n\n**Questions?** Open an issue in this course's [GitHub organisation](https://github.com/hertie-deep-learning-f2026) or contact the instructor directly.",
@@ -85,6 +85,326 @@
     }
   },
   "rows": [
+    {
+      "id": "lab-01",
+      "kind": "lab",
+      "when": "2026-11-18T00:00:00+01:00",
+      "sort_at": "2026-11-18T00:00:00+01:00",
+      "all_day": false,
+      "title": "Lab 1",
+      "subtitle": "Python foundations",
+      "details": "Self-study notebook, 1-3 hours.",
+      "assignment": null,
+      "released": true,
+      "released_at": "2026-11-18T14:54:49+01:00",
+      "tbc": false,
+      "dateless": false,
+      "off_schedule": true,
+      "links": [
+        {
+          "name": "lab-01_python-foundations.ipynb",
+          "repo": "materials",
+          "path": "lab-series/lab-01_python-foundations.ipynb",
+          "url": "https://github.com/hertie-deep-learning-f2026/materials/blob/main/lab-series/lab-01_python-foundations.ipynb"
+        }
+      ],
+      "readings": [],
+      "reading_list": "",
+      "readings_pending": false,
+      "tabs": [
+        "lab"
+      ],
+      "no_materials": false,
+      "repeat": false
+    },
+    {
+      "id": "lab-02",
+      "kind": "lab",
+      "when": "2026-11-18T00:00:00+01:00",
+      "sort_at": "2026-11-18T00:00:00+01:00",
+      "all_day": false,
+      "title": "Lab 2",
+      "subtitle": "Feed-forward networks",
+      "details": "Self-study notebook, 1-3 hours.",
+      "assignment": null,
+      "released": true,
+      "released_at": "2026-11-18T14:54:49+01:00",
+      "tbc": false,
+      "dateless": false,
+      "off_schedule": true,
+      "links": [
+        {
+          "name": "lab-02_feedforward-networks.ipynb",
+          "repo": "materials",
+          "path": "lab-series/lab-02_feedforward-networks.ipynb",
+          "url": "https://github.com/hertie-deep-learning-f2026/materials/blob/main/lab-series/lab-02_feedforward-networks.ipynb"
+        }
+      ],
+      "readings": [],
+      "reading_list": "",
+      "readings_pending": false,
+      "tabs": [
+        "lab"
+      ],
+      "no_materials": false,
+      "repeat": false
+    },
+    {
+      "id": "lab-03",
+      "kind": "lab",
+      "when": "2026-11-18T00:00:00+01:00",
+      "sort_at": "2026-11-18T00:00:00+01:00",
+      "all_day": false,
+      "title": "Lab 3",
+      "subtitle": "Training diagnostics",
+      "details": "Self-study notebook, 1-3 hours.",
+      "assignment": null,
+      "released": true,
+      "released_at": "2026-11-18T14:54:49+01:00",
+      "tbc": false,
+      "dateless": false,
+      "off_schedule": true,
+      "links": [
+        {
+          "name": "lab-03_training-diagnostics.ipynb",
+          "repo": "materials",
+          "path": "lab-series/lab-03_training-diagnostics.ipynb",
+          "url": "https://github.com/hertie-deep-learning-f2026/materials/blob/main/lab-series/lab-03_training-diagnostics.ipynb"
+        }
+      ],
+      "readings": [],
+      "reading_list": "",
+      "readings_pending": false,
+      "tabs": [
+        "lab"
+      ],
+      "no_materials": false,
+      "repeat": false
+    },
+    {
+      "id": "lab-04",
+      "kind": "lab",
+      "when": "2026-11-18T00:00:00+01:00",
+      "sort_at": "2026-11-18T00:00:00+01:00",
+      "all_day": false,
+      "title": "Lab 4",
+      "subtitle": "Convolutional neural networks",
+      "details": "Self-study notebook, 1-3 hours.",
+      "assignment": null,
+      "released": true,
+      "released_at": "2026-11-18T14:54:49+01:00",
+      "tbc": false,
+      "dateless": false,
+      "off_schedule": true,
+      "links": [
+        {
+          "name": "lab-04_cnns.ipynb",
+          "repo": "materials",
+          "path": "lab-series/lab-04_cnns.ipynb",
+          "url": "https://github.com/hertie-deep-learning-f2026/materials/blob/main/lab-series/lab-04_cnns.ipynb"
+        }
+      ],
+      "readings": [],
+      "reading_list": "",
+      "readings_pending": false,
+      "tabs": [
+        "lab"
+      ],
+      "no_materials": false,
+      "repeat": false
+    },
+    {
+      "id": "lab-05",
+      "kind": "lab",
+      "when": "2026-11-18T00:00:00+01:00",
+      "sort_at": "2026-11-18T00:00:00+01:00",
+      "all_day": false,
+      "title": "Lab 5",
+      "subtitle": "Modern CNNs and transfer learning",
+      "details": "Self-study notebook, 1-3 hours.",
+      "assignment": null,
+      "released": true,
+      "released_at": "2026-11-18T14:54:49+01:00",
+      "tbc": false,
+      "dateless": false,
+      "off_schedule": true,
+      "links": [
+        {
+          "name": "lab-05_modern-cnns-transfer.ipynb",
+          "repo": "materials",
+          "path": "lab-series/lab-05_modern-cnns-transfer.ipynb",
+          "url": "https://github.com/hertie-deep-learning-f2026/materials/blob/main/lab-series/lab-05_modern-cnns-transfer.ipynb"
+        }
+      ],
+      "readings": [],
+      "reading_list": "",
+      "readings_pending": false,
+      "tabs": [
+        "lab"
+      ],
+      "no_materials": false,
+      "repeat": false
+    },
+    {
+      "id": "lab-06",
+      "kind": "lab",
+      "when": "2026-11-18T00:00:00+01:00",
+      "sort_at": "2026-11-18T00:00:00+01:00",
+      "all_day": false,
+      "title": "Lab 6",
+      "subtitle": "RNN foundations",
+      "details": "Self-study notebook, 1-3 hours.",
+      "assignment": null,
+      "released": true,
+      "released_at": "2026-11-18T14:54:49+01:00",
+      "tbc": false,
+      "dateless": false,
+      "off_schedule": true,
+      "links": [
+        {
+          "name": "lab-06_rnn-foundations.ipynb",
+          "repo": "materials",
+          "path": "lab-series/lab-06_rnn-foundations.ipynb",
+          "url": "https://github.com/hertie-deep-learning-f2026/materials/blob/main/lab-series/lab-06_rnn-foundations.ipynb"
+        }
+      ],
+      "readings": [],
+      "reading_list": "",
+      "readings_pending": false,
+      "tabs": [
+        "lab"
+      ],
+      "no_materials": false,
+      "repeat": false
+    },
+    {
+      "id": "lab-07",
+      "kind": "lab",
+      "when": "2026-11-18T00:00:00+01:00",
+      "sort_at": "2026-11-18T00:00:00+01:00",
+      "all_day": false,
+      "title": "Lab 7",
+      "subtitle": "LSTM and GRU",
+      "details": "Self-study notebook, 1-3 hours.",
+      "assignment": null,
+      "released": true,
+      "released_at": "2026-11-18T14:54:49+01:00",
+      "tbc": false,
+      "dateless": false,
+      "off_schedule": true,
+      "links": [
+        {
+          "name": "lab-07_lstm-gru.ipynb",
+          "repo": "materials",
+          "path": "lab-series/lab-07_lstm-gru.ipynb",
+          "url": "https://github.com/hertie-deep-learning-f2026/materials/blob/main/lab-series/lab-07_lstm-gru.ipynb"
+        }
+      ],
+      "readings": [],
+      "reading_list": "",
+      "readings_pending": false,
+      "tabs": [
+        "lab"
+      ],
+      "no_materials": false,
+      "repeat": false
+    },
+    {
+      "id": "lab-08",
+      "kind": "lab",
+      "when": "2026-11-18T00:00:00+01:00",
+      "sort_at": "2026-11-18T00:00:00+01:00",
+      "all_day": false,
+      "title": "Lab 8",
+      "subtitle": "Seq2seq and attention",
+      "details": "Self-study notebook, 1-3 hours.",
+      "assignment": null,
+      "released": true,
+      "released_at": "2026-11-18T14:54:49+01:00",
+      "tbc": false,
+      "dateless": false,
+      "off_schedule": true,
+      "links": [
+        {
+          "name": "lab-08_seq2seq-attention.ipynb",
+          "repo": "materials",
+          "path": "lab-series/lab-08_seq2seq-attention.ipynb",
+          "url": "https://github.com/hertie-deep-learning-f2026/materials/blob/main/lab-series/lab-08_seq2seq-attention.ipynb"
+        }
+      ],
+      "readings": [],
+      "reading_list": "",
+      "readings_pending": false,
+      "tabs": [
+        "lab"
+      ],
+      "no_materials": false,
+      "repeat": false
+    },
+    {
+      "id": "lab-09",
+      "kind": "lab",
+      "when": "2026-11-18T00:00:00+01:00",
+      "sort_at": "2026-11-18T00:00:00+01:00",
+      "all_day": false,
+      "title": "Lab 9",
+      "subtitle": "Transformers",
+      "details": "Self-study notebook, 1-3 hours.",
+      "assignment": null,
+      "released": true,
+      "released_at": "2026-11-18T14:54:49+01:00",
+      "tbc": false,
+      "dateless": false,
+      "off_schedule": true,
+      "links": [
+        {
+          "name": "lab-09_transformers.ipynb",
+          "repo": "materials",
+          "path": "lab-series/lab-09_transformers.ipynb",
+          "url": "https://github.com/hertie-deep-learning-f2026/materials/blob/main/lab-series/lab-09_transformers.ipynb"
+        }
+      ],
+      "readings": [],
+      "reading_list": "",
+      "readings_pending": false,
+      "tabs": [
+        "lab"
+      ],
+      "no_materials": false,
+      "repeat": false
+    },
+    {
+      "id": "lab-10",
+      "kind": "lab",
+      "when": "2026-11-18T00:00:00+01:00",
+      "sort_at": "2026-11-18T00:00:00+01:00",
+      "all_day": false,
+      "title": "Lab 10",
+      "subtitle": "Fine-tuning, evaluation and MLOps",
+      "details": "Self-study notebook, 1-3 hours.",
+      "assignment": null,
+      "released": true,
+      "released_at": "2026-11-18T14:54:49+01:00",
+      "tbc": false,
+      "dateless": false,
+      "off_schedule": true,
+      "links": [
+        {
+          "name": "lab-10_finetuning-evaluation-mlops.ipynb",
+          "repo": "materials",
+          "path": "lab-series/lab-10_finetuning-evaluation-mlops.ipynb",
+          "url": "https://github.com/hertie-deep-learning-f2026/materials/blob/main/lab-series/lab-10_finetuning-evaluation-mlops.ipynb"
+        }
+      ],
+      "readings": [],
+      "reading_list": "",
+      "readings_pending": false,
+      "tabs": [
+        "lab"
+      ],
+      "no_materials": false,
+      "repeat": false
+    },
     {
       "id": "term-start",
       "kind": "semester",
