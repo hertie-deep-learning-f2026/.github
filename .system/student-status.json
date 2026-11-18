@@ -1,0 +1,93 @@
+{
+  "schema": "dsl.student-status/2",
+  "semester": "hertie-deep-learning-f2026",
+  "course_name": "Deep Learning",
+  "course_description": "",
+  "student_console": false,
+  "semester_start": null,
+  "semester_end": null,
+  "generated_at": "2026-11-18T12:26:48+00:00",
+  "timezone": "Europe/Berlin",
+  "archive_datetime": null,
+  "home_markdown": "Welcome to **Deep Learning** at the [Hertie School Data Science Lab]().\n\n**Questions?** Open an issue in this course's [GitHub organisation](https://github.com/hertie-deep-learning-f2026) or contact the instructor directly.",
+  "previous_offerings": [],
+  "syllabus": null,
+  "kinds": {
+    "lecture": {
+      "label": "Lecture",
+      "plural": "lectures",
+      "colour": "#a94442",
+      "background": "#f2dede",
+      "tab": true
+    },
+    "lab": {
+      "label": "Lab",
+      "plural": "labs",
+      "colour": "#3c763d",
+      "background": "#dff0d8",
+      "tab": true
+    },
+    "readings": {
+      "label": "Readings",
+      "plural": "readings",
+      "colour": "#2b6a60",
+      "background": "#dcefec",
+      "tab": true
+    },
+    "exam": {
+      "label": "Exam",
+      "plural": "exams",
+      "colour": "#2b2f36",
+      "background": "#e6e8ec",
+      "tab": true
+    },
+    "assignment": {
+      "label": "Assignment",
+      "plural": "assignments",
+      "colour": "#1f5fa8",
+      "background": "#d6e6f7",
+      "tab": false
+    },
+    "semester": {
+      "label": "Semester",
+      "plural": "semesters",
+      "colour": "#7b3fb8",
+      "background": "#ead9f6",
+      "tab": false
+    },
+    "archive": {
+      "label": "Archive",
+      "plural": "archives",
+      "colour": "#7d6230",
+      "background": "#fbf2d5",
+      "tab": false
+    },
+    "drop-in": {
+      "label": "Drop-in",
+      "plural": "drop-ins",
+      "colour": "#8f4a1c",
+      "background": "#fbe3d6",
+      "tab": true
+    },
+    "assets": {
+      "label": "Supporting files",
+      "plural": "assets",
+      "colour": "#4a5560",
+      "background": "#eceff1",
+      "tab": true
+    },
+    "other": {
+      "label": "Event",
+      "plural": "events",
+      "colour": "#7d6230",
+      "background": "#fbf2d5",
+      "tab": true
+    }
+  },
+  "rows": [],
+  "assignments": [],
+  "instructors": [],
+  "late_policy": [],
+  "materials_repos": [],
+  "announcements": []
+}
