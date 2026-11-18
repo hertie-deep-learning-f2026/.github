@@ -6,7 +6,7 @@
   "student_console": false,
   "semester_start": "2026-11-21",
   "semester_end": "2026-11-28",
-  "generated_at": "2026-11-18T13:20:01+00:00",
+  "generated_at": "2026-11-18T13:20:11+00:00",
   "timezone": "Europe/Berlin",
   "archive_datetime": "2027-01-31",
   "home_markdown": "Welcome to **Deep Learning** at the [Hertie School Data Science Lab]().\n\n**Questions?** Open an issue in this course's [GitHub organisation](https://github.com/hertie-deep-learning-f2026) or contact the instructor directly.",
@@ -120,12 +120,25 @@
       "subtitle": "S0 · Intro and outline; S1 · What is deep learning?",
       "details": "",
       "assignment": null,
-      "released": false,
-      "released_at": null,
+      "released": true,
+      "released_at": "2026-11-18T14:19:52+01:00",
       "tbc": false,
       "dateless": false,
       "off_schedule": false,
-      "links": [],
+      "links": [
+        {
+          "name": "handout.html",
+          "repo": "materials",
+          "path": "lectures/01_intro-what-is-dl/handout.html",
+          "url": "https://github.com/hertie-deep-learning-f2026/materials/blob/main/lectures/01_intro-what-is-dl/handout.html"
+        },
+        {
+          "name": "slides.html",
+          "repo": "materials",
+          "path": "lectures/01_intro-what-is-dl/slides.html",
+          "url": "https://github.com/hertie-deep-learning-f2026/materials/blob/main/lectures/01_intro-what-is-dl/slides.html"
+        }
+      ],
       "readings": [],
       "reading_list": "",
       "readings_pending": false,
@@ -170,12 +183,25 @@
       "subtitle": "S3 · The engine II: training",
       "details": "",
       "assignment": null,
-      "released": false,
-      "released_at": null,
+      "released": true,
+      "released_at": "2026-11-18T14:19:52+01:00",
       "tbc": false,
       "dateless": false,
       "off_schedule": false,
-      "links": [],
+      "links": [
+        {
+          "name": "handout.html",
+          "repo": "materials",
+          "path": "lectures/03_engine-training/handout.html",
+          "url": "https://github.com/hertie-deep-learning-f2026/materials/blob/main/lectures/03_engine-training/handout.html"
+        },
+        {
+          "name": "slides.html",
+          "repo": "materials",
+          "path": "lectures/03_engine-training/slides.html",
+          "url": "https://github.com/hertie-deep-learning-f2026/materials/blob/main/lectures/03_engine-training/slides.html"
+        }
+      ],
       "readings": [],
       "reading_list": "",
       "readings_pending": false,
