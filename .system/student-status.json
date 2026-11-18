@@ -6,7 +6,7 @@
   "student_console": false,
   "semester_start": "2026-11-21",
   "semester_end": "2026-11-28",
-  "generated_at": "2026-11-18T14:35:06+00:00",
+  "generated_at": "2026-11-18T14:37:01+00:00",
   "timezone": "Europe/Berlin",
   "archive_datetime": "2027-01-31",
   "home_markdown": "Welcome to **Deep Learning** at the [Hertie School Data Science Lab]().\n\n**Questions?** Open an issue in this course's [GitHub organisation](https://github.com/hertie-deep-learning-f2026) or contact the instructor directly.",
@@ -683,7 +683,16 @@
     }
   ],
   "assignments": [],
-  "instructors": [],
+  "instructors": [
+    {
+      "name": "Henry Baker",
+      "title": "",
+      "webpage": "",
+      "picture": "",
+      "role": "instructor",
+      "email": ""
+    }
+  ],
   "late_policy": [],
   "materials_repos": [
     "materials"
