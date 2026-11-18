@@ -1,6 +1,6 @@
 <!-- SYSTEM-OWNED - do not edit, edits here are overwritten on the next refresh. -->
 
-# hertie-deep-learning-f2026 - semester control repo
+# Deep Learning - semester control repo
 
 This is the **`.github` repo** for the `hertie-deep-learning-f2026` semester org. **Students and instructors rarely need to touch anything in this repo directly.**
 
