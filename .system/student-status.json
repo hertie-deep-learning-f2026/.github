@@ -6,7 +6,7 @@
   "student_console": false,
   "semester_start": "2026-11-21",
   "semester_end": "2026-11-28",
-  "generated_at": "2026-11-18T14:19:02+00:00",
+  "generated_at": "2026-11-18T14:35:05+00:00",
   "timezone": "Europe/Berlin",
   "archive_datetime": "2027-01-31",
   "home_markdown": "Welcome to **Deep Learning** at the [Hertie School Data Science Lab]().\n\n**Questions?** Open an issue in this course's [GitHub organisation](https://github.com/hertie-deep-learning-f2026) or contact the instructor directly.",
@@ -613,7 +613,7 @@
       "sort_at": "2026-11-28T13:30:00+01:00",
       "all_day": false,
       "title": "Lecture 6",
-      "subtitle": "S6 · Transformers and LLMs",
+      "subtitle": "S6 · Transformer block",
       "details": "",
       "assignment": null,
       "released": true,
@@ -638,7 +638,7 @@
       "sort_at": "2026-11-28T15:30:00+01:00",
       "all_day": false,
       "title": "Lecture 7",
-      "subtitle": "S7 · Your thesis",
+      "subtitle": "S7 · LLMs [bonus] (a brief look)",
       "details": "",
       "assignment": null,
       "released": true,
@@ -654,31 +654,6 @@
         "lecture"
       ],
       "no_materials": true,
-      "repeat": false
-    },
-    {
-      "id": "ml-clinic",
-      "kind": "special_event",
-      "when": null,
-      "sort_at": "2026-11-28T23:00:00+01:00",
-      "all_day": false,
-      "title": "ML Clinic drop-in sessions",
-      "subtitle": "",
-      "details": "Drop-in support through the semester; dates to follow.",
-      "assignment": null,
-      "released": true,
-      "released_at": null,
-      "tbc": true,
-      "dateless": true,
-      "off_schedule": false,
-      "links": [],
-      "readings": [],
-      "reading_list": "",
-      "readings_pending": false,
-      "tabs": [
-        "special_event"
-      ],
-      "no_materials": false,
       "repeat": false
     },
     {
